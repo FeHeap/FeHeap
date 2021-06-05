@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
 - 📫 How to reach me: maybeicannot@gmail.com
-- 😄 Pronouns: Fe
-- ⚡ Fun fact: N
+<!-- - 😄 Pronouns: Fe
+- ⚡ Fun fact: N -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FeHeap&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 

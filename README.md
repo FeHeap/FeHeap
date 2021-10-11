@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FeHeap&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://walfiegif.files.wordpress.com/2020/11/out-transparent-28.gif" width="30%">
 <br>
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FeHeap&theme=vue)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FeHeap&theme=vue)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FeHeap&theme=github_dark" width="36.5%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FeHeap&theme=github_dark" width="36.5%">
